@@ -336,7 +336,7 @@ body {
 	padding-left: 5px;
 	left: 167px;
 	position: absolute;
-	top: 190px;
+	top: 136px;
 
 }
 
@@ -348,7 +348,7 @@ body {
 	border: 0px;
 	left: 167px;
 	position: absolute;
-	top: 215px;
+	top: 165px;
 }
 
 #NyEpost2{
@@ -359,7 +359,7 @@ body {
 	border: 0px;
 	left: 167px;
 	position: absolute;
-	top: 240px;
+	top: 194px;
 }
 
 #GammeltPassord{
@@ -370,6 +370,7 @@ body {
 	border: 0px;
 	left: 167px;
 	position: absolute;
+	top: 275px;
 	
 }
 
@@ -381,7 +382,7 @@ body {
 	border: 0px;
 	left: 167px;
 	position: absolute;
-	top: 355px;
+	top: 304px;
 
 }
 
@@ -392,7 +393,7 @@ body {
 	/*background: url('../bilder/Searchfield_02.png');*/
 	border: 0px;
 	left: 167px;
-	top: 380px;
+	top: 333px;
 	position: absolute;
 }
 
@@ -416,13 +417,14 @@ body {
 #submit2{
 	position: absolute;
 	left: 280px;
-	top: 245px;
+	top: 198px;
+	width: 50px;
 }
 
 #submit1{
 	position: absolute;
 	left: 280px;
-	top: 385px;
+	top: 338px;
 }
 
 #mainContent h2{
